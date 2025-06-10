@@ -24,14 +24,17 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-| Backend                                | Frontend                            | Testing & AI        |
-|----------------------------------------|-------------------------------------|---------------------|
-| Laravel (Blade, Eloquent ORM, APIs)    | Vue.js / React.js / Tailwind CSS    | Python (pytest)     |
-| PHP 8+                                 | HTML5, CSS3 / Bootstrap             | TensorFlow, PyTorch |
-| MySQL / PostgreSQL                     | JavaScript (ES6+)                   | Pandas, NumPy       |
-| AWS / Docker / CI·CD                   | Webpack / Vite                      | ChatGPT integrations|
+| Language / Framework                     |
+|------------------------------------------|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)  |
+| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)         |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  |
+| ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
 ---
 
@@ -42,8 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre4Cotugn0&layout=compact&theme=dark" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andre4Cotugn0&theme=dark" alt="GitHub Streak" />
 </p>
-
-> Replace `Andre4Cotugn0` with your username, and adjust `theme=` or other params as you like.
 
 ---
 
@@ -74,17 +75,14 @@
 
 ## 🔗 Useful Links & Templates
 
-- 📂 **Portfolio & Projects:** [Your Portfolio](<YOUR_PORTFOLIO_URL>)  
-- 📄 **Resume:** [Download PDF](<YOUR_CV_PDF_URL>)  
+- 📂 **Portfolio & Resume:** [Download PDF](<YOUR_CV_PDF_URL>)  
 - 🌐 **LinkedIn:** [linkedin.com/in/<YOUR_LINKEDIN>](https://www.linkedin.com/in/<YOUR_LINKEDIN>)  
-- 📝 **Blog / Articles:** [Medium / Dev.to](<YOUR_BLOG_URL>)
+- 📝 **Blog / Articles:** [Medium / Dev.to](<YOUR_BLOG_URL>)  
 
-> **Project Template**  
+> **Badge Template**  
 > ```md
-> - 📂 **Project Name**: [Short description](<PROJECT_URL>)
->   - **Role:** <Your role>
->   - **Tech:** <Stack used>
-> ```
+> ![TechName](https://img.shields.io/badge/TechName-<HEX>?style=flat-square&logo=<logoSlug>&logoColor=white)
+> ```  
 
 ---
 
@@ -92,9 +90,3 @@
 
 I’m always open to **code reviews**, **pair programming**, and **security/AI projects**.  
 Reach out on LinkedIn or via email, and let’s build something awesome!
-
-<div align="center">
-  <a href="https://komarev.com/ghpvc/?username=Andre4Cotugn0&color=blue">
-    <img src="https://komarev.com/ghpvc/?username=Andre4Cotugn0&color=blue" alt="Profile views" />
-  </a>
-</div>
