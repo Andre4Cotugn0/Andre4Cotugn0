@@ -2,7 +2,7 @@
 
 # 👨‍💻 Andrea Cotugno
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity+%26+AI+Enthusiast;Building+the+Future)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Student+%26+React+Learner;Cybersecurity+Enthusiast;Building+the+Future)
 
 [![GitHub followers](https://img.shields.io/github/followers/Andre4Cotugn0?style=for-the-badge&color=00d9ff&labelColor=0a0a0a)](https://github.com/Andre4Cotugn0)
 [![GitHub stars](https://img.shields.io/github/stars/Andre4Cotugn0?style=for-the-badge&color=00d9ff&labelColor=0a0a0a)](https://github.com/Andre4Cotugn0)
@@ -15,19 +15,31 @@
 
 **19** • **Full Stack Dev** @ [AGF Energy](https://www.agfenergy.com) • **CS Student** @ UNIBA • **OliCyber Competitor**
 
+🎯 **Currently Learning**: `Artificial Intelligence` & `React.js`
+
 ---
 
 ## ⚡ **STACK**
 
 ```yaml
 Languages: [Java, Python, PHP, JavaScript, C/C++]
-Frontend:  [React, Vue.js, HTML5, CSS3]
+Frontend:  [Vue.js, HTML5, CSS3, React.js ⚡learning]
 Backend:   [Laravel, Spring Boot]
 Database:  [MySQL, MariaDB, InnoDB]
-AI/ML:     [TensorFlow, PyTorch]
+AI/ML:     [TensorFlow, PyTorch, Neural Networks 🧠studying]
 DevOps:    [Docker, Git, Fedora]
 Security:  [Wireshark, Network Analysis]
 ```
+
+---
+
+## 🏆 **ACHIEVEMENTS**
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Andre4Cotugn0&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
+
+</div>
 
 ---
 
@@ -51,6 +63,25 @@ Security:  [Wireshark, Network Analysis]
 
 ---
 
+## 📚 **LEARNING JOURNEY**
+
+```javascript
+const currentFocus = {
+  ai_ml: {
+    studying: ["Neural Networks", "Deep Learning", "Computer Vision"],
+    tools: ["TensorFlow", "PyTorch", "Jupyter"],
+    goal: "Build intelligent applications"
+  },
+  react: {
+    learning: ["Components", "Hooks", "State Management"],
+    next: ["Next.js", "React Native"],
+    goal: "Modern frontend development"
+  }
+};
+```
+
+---
+
 ## 🌐 **CONNECT**
 
 <div align="center">
@@ -65,7 +96,7 @@ Security:  [Wireshark, Network Analysis]
 
 <div align="center">
 
-**`// Building tomorrow's solutions today`**
+**`// Learning AI today, building tomorrow`**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Andre4Cotugn0&color=00d9ff&style=for-the-badge&label=VISITORS)
 
