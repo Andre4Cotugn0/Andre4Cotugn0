@@ -1,117 +1,94 @@
-# 👋 Ciao, sono Andrea Cotugno!
+<!--
+  👋 Ciao! Sono Andrea Cotugno (Andre4Cotugn0)
+  🔭 Attualmente lavoro come Full-Stack Developer @ AGF Energy
+  🌱 Studio autonomamente Intelligenza Artificiale
+  👯 Mi piacerebbe collaborare su progetti di Sicurezza Informatica
+  🤔 Sto esplorando: Laravel, Blade, Eloquent, Python per testing
+  📫 Contattami: <EMAIL> / <LINKEDIN_URL>
+  ⚡ Divertimento: Hackathons cyber (OliCyber), Capture The Flag
+-->
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Andre4Cotugn0&color=brightgreen)
-  [![GitHub followers](https://img.shields.io/github/followers/Andre4Cotugn0?style=social)](https://github.com/Andre4Cotugn0)
-  
-</div>
+## 👨‍💻 Chi sono
 
-## 🚀 Chi sono
+- **Nome:** Andrea Cotugno (👤 `Andre4Cotugn0`)  
+- **Età:** 19 anni (nato il 30/11/2005)  
+- **Ruolo:** Full-Stack Developer (BE & FE) @ AGF Energy  
+- **Formazione:** Studente ITPS Informatica presso UniBA (Università di Bari)  
+- **Passioni:** Sicurezza informatica, AI, clean code, automazioni  
 
-Sono **Andrea Cotugno** (Andre4Cotugn0), un giovane sviluppatore full-stack di 19 anni con una forte passione per la tecnologia e l'innovazione. Attualmente lavoro come **Full Stack Developer** presso **AGF Energy** e studio **Informatica** presso l'**Università di Bari (UNIBA)** - ITPS.
+---
 
-## 💼 Esperienza Professionale
+## 🛠️ Tecnologie & strumenti
 
-- 🏢 **Full Stack Developer** presso **AGF Energy**
-  - Sviluppo Backend e Frontend
-  - Gestione di progetti complessi end-to-end
-  - Collaborazione in team multidisciplinari
+| Backend                         | Frontend                       | Testing & AI        |
+|---------------------------------|--------------------------------|---------------------|
+| Laravel (Blade, Eloquent, API)  | Vue.js / React.js / Tailwind   | Python (pytest)     |
+| PHP 8+                          | HTML5, CSS3 / Bootstrap        | Pandas, NumPy       |
+| MySQL / PostgreSQL              | JavaScript (ES6+)              | ChatGPT, TensorFlow |
 
-## 🎓 Formazione
+---
 
-- 📚 **Studente di Informatica** - ITPS, Università di Bari (UNIBA)
-- 🏆 **Partecipante OliCyber** - Competizioni di sicurezza informatica
-- 📖 **Studio autonomo** - Intelligenza Artificiale e Machine Learning
+## ⚙️ Statistiche GitHub (dynamic)
 
-## 🛠️ Tech Stack
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Andre4Cotugn0&show_icons=true&theme=dark&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre4Cotugn0&layout=compact&theme=dark)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andre4Cotugn0&theme=dark)  
 
-### Backend
-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-- ![Eloquent ORM](https://img.shields.io/badge/Eloquent-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-- ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+> Sostituisci `Andre4Cotugn0` con il tuo username, scegli il tema che preferisci (`dark`/`light`), o personalizza i parametri nei link qui sopra.
 
-### Frontend
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
-### Testing & AI
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![AI/ML](https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+## 💼 Esperienza
 
-### Sicurezza
-- ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
-- ![Penetration Testing](https://img.shields.io/badge/Pen%20Testing-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white)
+- **AGF Energy** – Full-Stack Developer  
+  - Sviluppo di applicazioni web enterprise (BE in Laravel, FE con Vue.js/React)  
+  - Integrazione di microservizi e RESTful API  
+  - Monitoraggio e ottimizzazione prestazioni su AWS  
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andre4Cotugn0&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre4Cotugn0&layout=compact&theme=radical)
-  
-</div>
+## 🎓 Istruzione
 
-## 🎯 Aree di Interesse
+- **ITPS Informatica** – Università degli Studi di Bari  
+  - Corsi principali: Programmazione avanzata, Basi di dati, Sicurezza reti  
+  - Progetto tesi: Analisi di vulnerabilità in applicazioni Laravel  
 
-- 🔐 **Cybersecurity** - Sicurezza informatica e ethical hacking
-- 🤖 **Intelligenza Artificiale** - Machine Learning e Deep Learning
-- 🌐 **Web Development** - Applicazioni web moderne e scalabili
-- 🔧 **DevOps** - Automazione e deployment
-- 📱 **Mobile Development** - Sviluppo cross-platform
+---
 
-## 🏆 Riconoscimenti
+## 🏆 Conquiste & Certificazioni
 
-- 🥇 **OliCyber** - Partecipazione multipla alle competizioni nazionali di cybersecurity
-- 💎 **Laravel Expert** - Padronanza completa del framework con Blade ed Eloquent
+- **Platinato Laravel:** Blade, Eloquent ORM, Testing suite  
+- **Cybersecurity:** Partecipazione multiple volte a OliCyber (CTF e workshop)  
+- **AI Self-Study:** ChatGPT, TensorFlow, PyTorch  
 
-## 📈 Attività Recenti
+---
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## 🔗 Link utili & Template
 
-## 🔗 Connettiti con me
+- 📂 **Portfolio / Progetti**: [Il mio portfolio](<TUO_PORTFOLIO_URL>)  
+- 📄 **Curriculum Vitae**: [Scarica il CV](<URL_CV_PDF>)  
+- 🌐 **LinkedIn**: [linkedin.com/in/<TUO_LINKEDIN>](https://www.linkedin.com/in/<TUO_LINKEDIN>)  
+- 📝 **Blog / Articoli**: [Medium / Dev.to](<URL_BLOG>)  
 
-- 💼 **LinkedIn**: [Andrea Cotugno](https://linkedin.com/in/andrea-cotugno)
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
-- 🐦 **Twitter**: [@Andre4Cotugn0](https://twitter.com/Andre4Cotugn0)
-- 📱 **Telegram**: [@Andre4Cotugn0](https://t.me/Andre4Cotugn0)
+> **Template**:  
+> ```md
+> - 📂 **Progetto X**: [Descrizione breve](<URL_PROGETTO>)  
+>   - Ruolo: <tuo ruolo>  
+>   - Tecnologie: <tech stack>  
+> ```  
+> Puoi duplicare e modificare questa struttura per ogni nuovo progetto.
 
-## 💡 Progetti in Evidenza
+---
 
-### 🚀 [Nome Progetto 1](https://github.com/Andre4Cotugn0/progetto1)
-Descrizione breve del progetto con tecnologie utilizzate.
+## 🤝 Collaborazioni
 
-### 🔒 [Nome Progetto 2](https://github.com/Andre4Cotugn0/progetto2)
-Progetto di cybersecurity con focus su [specifica area].
-
-### 🤖 [Nome Progetto 3](https://github.com/Andre4Cotugn0/progetto3)
-Implementazione di algoritmi di AI/ML per [specifica applicazione].
+- Sempre aperto a **code review**, **pair programming** e proposte su **sicurezza informatica** o **AI**.  
+- Scrivimi su LinkedIn o via email per discutere di nuovi progetti e opportunità!
 
 ---
 
 <div align="center">
-  
-  **"La tecnologia è meglio quando avvicina le persone."** - Matt Mullenweg
-  
-  ![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-  
+  <a href="https://github.com/Andre4Cotugn0">
+    <img src="https://komarev.com/ghpvc/?username=Andre4Cotugn0&color=blue" alt="Views" />
+  </a>
 </div>
-
-## 📅 Fun Facts
-
-- 🎂 Nato il 30 novembre 2005
-- 🌟 Appassionato di cybersecurity fin da giovane
-- 📚 Autodidatta nell'ambito dell'intelligenza artificiale
-- 🎯 Sempre alla ricerca di nuove sfide tecnologiche
-
----
-
-<div align="center">
-  <img src="https://github.com/Andre4Cotugn0/Andre4Cotugn0/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-*Ultimo aggiornamento: [Data corrente]*
