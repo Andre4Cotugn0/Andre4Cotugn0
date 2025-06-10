@@ -1,94 +1,100 @@
 <!--
-  👋 Ciao! Sono Andrea Cotugno (Andre4Cotugn0)
-  🔭 Attualmente lavoro come Full-Stack Developer @ AGF Energy
-  🌱 Studio autonomamente Intelligenza Artificiale
-  👯 Mi piacerebbe collaborare su progetti di Sicurezza Informatica
-  🤔 Sto esplorando: Laravel, Blade, Eloquent, Python per testing
-  📫 Contattami: <EMAIL> / <LINKEDIN_URL>
-  ⚡ Divertimento: Hackathons cyber (OliCyber), Capture The Flag
+👋 Hi there! I’m Andrea Cotugno (Andre4Cotugn0)
+🔭 Full-Stack Developer @ AGF Energy (BE & FE)
+🌱 Self-studying Artificial Intelligence & Cybersecurity
+⚡ Fun: CTFs (OliCyber), clean code, automations
 -->
 
-## 👨‍💻 Chi sono
-
-- **Nome:** Andrea Cotugno (👤 `Andre4Cotugn0`)  
-- **Età:** 19 anni (nato il 30/11/2005)  
-- **Ruolo:** Full-Stack Developer (BE & FE) @ AGF Energy  
-- **Formazione:** Studente ITPS Informatica presso UniBA (Università di Bari)  
-- **Passioni:** Sicurezza informatica, AI, clean code, automazioni  
-
----
-
-## 🛠️ Tecnologie & strumenti
-
-| Backend                         | Frontend                       | Testing & AI        |
-|---------------------------------|--------------------------------|---------------------|
-| Laravel (Blade, Eloquent, API)  | Vue.js / React.js / Tailwind   | Python (pytest)     |
-| PHP 8+                          | HTML5, CSS3 / Bootstrap        | Pandas, NumPy       |
-| MySQL / PostgreSQL              | JavaScript (ES6+)              | ChatGPT, TensorFlow |
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&width=700&height=100&lines=👋+Hello,+I%E2%80%99m+Andrea+Cotugno;(Andre4Cotugn0);Full-Stack+Developer+@+AGF+Energy;AI+%26+Cybersecurity+Enthusiast" 
+    alt="Typing Animation"
+  />
+</p>
 
 ---
 
-## ⚙️ Statistiche GitHub (dynamic)
+## 👨‍💻 About Me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Andre4Cotugn0&show_icons=true&theme=dark&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre4Cotugn0&layout=compact&theme=dark)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andre4Cotugn0&theme=dark)  
-
-> Sostituisci `Andre4Cotugn0` con il tuo username, scegli il tema che preferisci (`dark`/`light`), o personalizza i parametri nei link qui sopra.
-
----
-
-## 💼 Esperienza
-
-- **AGF Energy** – Full-Stack Developer  
-  - Sviluppo di applicazioni web enterprise (BE in Laravel, FE con Vue.js/React)  
-  - Integrazione di microservizi e RESTful API  
-  - Monitoraggio e ottimizzazione prestazioni su AWS  
+- **Name:** Andrea Cotugno (`Andre4Cotugn0`)  
+- **Age:** 19 (born **30 Nov 2005**)  
+- **Role:** Full-Stack Developer (Backend & Frontend) @ AGF Energy  
+- **Education:** B.Sc. Computer Science (ITPS) @ University of Bari  
+- **Interests:** Web security, AI/ML, testing automation
 
 ---
 
-## 🎓 Istruzione
+## 🛠️ Tech Stack
 
-- **ITPS Informatica** – Università degli Studi di Bari  
-  - Corsi principali: Programmazione avanzata, Basi di dati, Sicurezza reti  
-  - Progetto tesi: Analisi di vulnerabilità in applicazioni Laravel  
-
----
-
-## 🏆 Conquiste & Certificazioni
-
-- **Platinato Laravel:** Blade, Eloquent ORM, Testing suite  
-- **Cybersecurity:** Partecipazione multiple volte a OliCyber (CTF e workshop)  
-- **AI Self-Study:** ChatGPT, TensorFlow, PyTorch  
+| Backend                                | Frontend                            | Testing & AI        |
+|----------------------------------------|-------------------------------------|---------------------|
+| Laravel (Blade, Eloquent ORM, APIs)    | Vue.js / React.js / Tailwind CSS    | Python (pytest)     |
+| PHP 8+                                 | HTML5, CSS3 / Bootstrap             | TensorFlow, PyTorch |
+| MySQL / PostgreSQL                     | JavaScript (ES6+)                   | Pandas, NumPy       |
+| AWS / Docker / CI·CD                   | Webpack / Vite                      | ChatGPT integrations|
 
 ---
 
-## 🔗 Link utili & Template
+## ⚙️ GitHub Stats
 
-- 📂 **Portfolio / Progetti**: [Il mio portfolio](<TUO_PORTFOLIO_URL>)  
-- 📄 **Curriculum Vitae**: [Scarica il CV](<URL_CV_PDF>)  
-- 🌐 **LinkedIn**: [linkedin.com/in/<TUO_LINKEDIN>](https://www.linkedin.com/in/<TUO_LINKEDIN>)  
-- 📝 **Blog / Articoli**: [Medium / Dev.to](<URL_BLOG>)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andre4Cotugn0&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre4Cotugn0&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andre4Cotugn0&theme=dark" alt="GitHub Streak" />
+</p>
 
-> **Template**:  
+> Replace `Andre4Cotugn0` with your username, and adjust `theme=` or other params as you like.
+
+---
+
+## 💼 Professional Experience
+
+**AGF Energy** – Full-Stack Developer  
+- Built and maintained enterprise web apps (Laravel backend, Vue/React frontend)  
+- Designed & consumed RESTful APIs, integrated microservices  
+- Deployed and scaled on AWS (ECS, Lambda) with CI·CD pipelines  
+
+---
+
+## 🎓 Education
+
+**University of Bari** – B.Sc. in Computer Science (ITPS)  
+- Key Courses: Advanced Programming, Databases, Network Security  
+- Thesis: “Vulnerability Analysis in Laravel-Based Web Applications”
+
+---
+
+## 🏆 Achievements & Certifications
+
+- **Laravel Mastery:** Blade templating, Eloquent best practices, unit testing  
+- **OliCyber CTF:** Multiple medalist and workshop mentor  
+- **AI Self-Study:** Building prototypes with ChatGPT, TensorFlow, PyTorch  
+
+---
+
+## 🔗 Useful Links & Templates
+
+- 📂 **Portfolio & Projects:** [Your Portfolio](<YOUR_PORTFOLIO_URL>)  
+- 📄 **Resume:** [Download PDF](<YOUR_CV_PDF_URL>)  
+- 🌐 **LinkedIn:** [linkedin.com/in/<YOUR_LINKEDIN>](https://www.linkedin.com/in/<YOUR_LINKEDIN>)  
+- 📝 **Blog / Articles:** [Medium / Dev.to](<YOUR_BLOG_URL>)
+
+> **Project Template**  
 > ```md
-> - 📂 **Progetto X**: [Descrizione breve](<URL_PROGETTO>)  
->   - Ruolo: <tuo ruolo>  
->   - Tecnologie: <tech stack>  
-> ```  
-> Puoi duplicare e modificare questa struttura per ogni nuovo progetto.
+> - 📂 **Project Name**: [Short description](<PROJECT_URL>)
+>   - **Role:** <Your role>
+>   - **Tech:** <Stack used>
+> ```
 
 ---
 
-## 🤝 Collaborazioni
+## 🤝 Let’s Collaborate!
 
-- Sempre aperto a **code review**, **pair programming** e proposte su **sicurezza informatica** o **AI**.  
-- Scrivimi su LinkedIn o via email per discutere di nuovi progetti e opportunità!
-
----
+I’m always open to **code reviews**, **pair programming**, and **security/AI projects**.  
+Reach out on LinkedIn or via email, and let’s build something awesome!
 
 <div align="center">
-  <a href="https://github.com/Andre4Cotugn0">
-    <img src="https://komarev.com/ghpvc/?username=Andre4Cotugn0&color=blue" alt="Views" />
+  <a href="https://komarev.com/ghpvc/?username=Andre4Cotugn0&color=blue">
+    <img src="https://komarev.com/ghpvc/?username=Andre4Cotugn0&color=blue" alt="Profile views" />
   </a>
 </div>
