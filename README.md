@@ -13,7 +13,7 @@
 
 ## 🚀 **ABOUT**
 
-**19** • **Full Stack Dev** @ [AGF Energy](https://www.agfenergy.it) • **CS Student** @ UNIBA • **OliCyber Competitor**
+**19** • **Full Stack Dev** @ [AGF Energy](https://www.agfenergy.it) • **CS Student** @ UNIBA • **EX OliCyber Competitor**
 
 🎯 **Currently Learning**: `Artificial Intelligence` & `React.js`
 
