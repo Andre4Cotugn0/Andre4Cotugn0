@@ -71,9 +71,9 @@ Java • Spring Boot
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Andre4Cotugn0&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=00d9ff&title_color=00d9ff)
+![Stats](https://github-readme-stats.vercel.app/api?username=Andre4Cotugn0&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=00d9ff&title_color=00d9ff&cache_seconds=1800)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre4Cotugn0&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=00d9ff)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre4Cotugn0&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=00d9ff&cache_seconds=1800)
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Andre4Cotugn0&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&hide_border=true)
 
