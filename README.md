@@ -63,7 +63,7 @@ Java • Spring Boot
 > Real-time data aggregation from public APIs of the Puglia region  
 > Automated collection • JSON / CSV processing • Data pipelines
 
-🔗 https://github.com/IlCotugamer/NowPuglia
+🔗 https://github.com/Andre4Cotugn0/NowPuglia
 
 ---
 
